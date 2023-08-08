@@ -37,7 +37,7 @@ The following image shows the web application's appearance and functionality:
 
 ![Password Generator](./Assets/Images/password-generator.png "Screenshot")
 
-Please see the live webpage link for you to checkout
+Please see the live webpage link for you to checkout. ![Link] 
 
 ## How to Use
 
