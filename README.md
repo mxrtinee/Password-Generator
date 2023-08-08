@@ -1,5 +1,7 @@
-# Password-Generator
+# Password Generator
 This password generator enables the end user to generate random passwords based on criteria that they're selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code.
+
+For source code, visit my Github repo @ [Github] (https://github.com/mxrtinee/Password-Generator)
 
 ## User Story
 
@@ -29,6 +31,24 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-## Mock-Up
+## Screenshot
 
 The following image shows the web application's appearance and functionality:
+
+![Password Generator](./Assets/Images/password-generator.png "Screenshot")
+
+Please see the live webpage link for you to checkout
+
+## How to Use
+
+1. Once you have opened the Password Generator Application in your web browser.
+2. You will be presented with a form to generate a password.
+3. Click "Generate Password"
+4. You will be promted to enter the desired password length (between 8 and 128 characters) in the input field.
+5. Select the types of characters to include in the password:
+   - Click the "Would you like to include Lowercase Letters?" "Okay" button to include lowercase letters and click "Cancel" if this isn't desired. (e.g., abcdefgh).
+   - Click the "Would you like to include Uppercase Letters?" "Okay" button to include uppercase letters and click "Cancel" if this isn't desired. (e.g., ABCDEFGH).
+   - Click the "Would you like to include Numbers?" "Okay" button to include numeric characters and click "Cancel" if this isn't desired. (e.g., 0123456789).
+   - Click the "Would you like to include Special Characters?" "Okay" button to include special characters and click "Cancel" if this isn't desired. (e.g., !@#$%^&*()-_=+".)
+6. Once you've made your selections the randomly generated password will be displayed in the textarea above the button.
+8. You can copy the generated password and use it as needed for secure login or account creation.
