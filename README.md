@@ -37,7 +37,7 @@ The following image shows the web application's appearance and functionality:
 
 ![Password Generator](./Assets/Images/password-generator.png "Screenshot")
 
-Please see the live webpage link for you to checkout. ![Link] 
+Please see the live webpage link for you to checkout. [Link](https://mxrtinee.github.io/Password-Generator/)
 
 ## How to Use
 
